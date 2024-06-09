@@ -4,13 +4,33 @@
 }
 
 
-div.item{
+body{
+    background-color: purple;
+}
+
+.item{
+    display:flex;
+    flex: 1;
+    flex-direction: column;
+    font-weight:lighter;
+    font-size: 20px;
+    padding: 4px;
+    margin-top: 5px
+}
+
+.item.top{
+    margin-top:20px;
+}
+
+.title{
     text-align: center;
+    font-size: 60px;
+    font-weight: bolder;
+    padding: 7px;
+    color:cyan;
 
 }
 
-.head{
-    text-align: center;
-    font-size: larger;
-    font-weight: bolder;
+a{
+    color:crimson;
 }
