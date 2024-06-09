@@ -1,0 +1,16 @@
+* {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+
+}
+
+
+div.item{
+    text-align: center;
+
+}
+
+.head{
+    text-align: center;
+    font-size: larger;
+    font-weight: bolder;
+}
